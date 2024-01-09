@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "ganja0001",
+      "name": "Northern Lights",
+      "thc": "18.8",
+      "price": 10.99
+    },
+    {
+      "id": "ganja0002",
+      "name": "Blue Dream",
+      "thc": "22.1",
+      "price": 12.99
+    },
+    {
+      "id": "ganja0003",
+      "name": "Sour Diesel",
+      "thc": "20.9",
+      "price": 11.99
+    },
+    {
+      "id": "ganja0004",
+      "name": "Chocolope",
+      "thc": "19.8",
+      "price": 13.99
+    },
+    {
+      "id": "ganja0005",
+      "name": "Silver Haze",
+      "thc": "22.8",
+      "price": 12.99
+    },
+    {
+      "id": "ganja0006",
+      "name": "Granddaddy",
+      "thc": "20",
+      "price": 14.99
+    },
+    {
+      "id": "ganja0007",
+      "name": "Runtz",
+      "thc": "18.8",
+      "price": 11.99
+    },
+    {
+      "id": "ganja0008",
+      "name": "Bubba Kush",
+      "thc": "19.4",
+      "price": 12.99
+    }
+  ]
+}

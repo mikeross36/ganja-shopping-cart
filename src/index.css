@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.offscreen {
+  position: absolute;
+  left: -10000px;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+}
+
+button,
+select {
+  font: inherit;
+  padding: 0.25em;
+  cursor: pointer;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-flow: column nowrap;
+}
